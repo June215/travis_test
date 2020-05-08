@@ -1,0 +1,10 @@
+{
+    "name": "lizhangjun/travis_test",
+    "authors": [
+        {
+            "name": "lizhangjun",
+            "email": "lizhangjun@huami.com"
+        }
+    ],
+    "require": {}
+}
